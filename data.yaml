@@ -1,0 +1,17 @@
+path: /content/drive/MyDrive/Research Project/images
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: Ants
+  1: Bed Bugs
+  2: Chiggers
+  3: Fleas
+  4: Goosebumps
+  5: Mosquito
+  6: None
+  7: Reupload
+  8: Spider
+  9: Tick
