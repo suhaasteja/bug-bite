@@ -163,7 +163,8 @@ cython_debug/
 
 *.DS_Store
 
-images/
+images/train
+images/valid
 
 # adding large files
 *.pt 
